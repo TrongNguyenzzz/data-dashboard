@@ -1,0 +1,94 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    border-radius: 5px;
+    color: black;
+    padding-left: 35px;
+}
+
+.main {
+    background-color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+.main-frame {
+    background-color: #282c34;
+    height: 100vh;
+}
+
+.dashboard {
+    color: white;
+    font-size: 30px;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.process-button {
+    margin-top: 50px;
+    background-color: aqua;
+    border-radius: 5px;
+    margin-right: 15%;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.note {
+    margin-top: 30px;
+    font-size: 12px;
+    margin-right: 70px;
+}
+
+.inputId {
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.dashboard {
+    display: inline-block;
+    justify-content: center;
+}
+
+.data-title {
+    padding-left: 50%;
+    padding: 0px 0px 0px 16px !important;
+    border: none;
+    vertical-align: middle;
+    height: 48px;
+    line-height: 48px;
+    float: left;
+}
+
+.temp {
+    margin-left: 60vw;
+    color: black;
+    background-color: aqua;
+    height: 40px;
+    border-radius: 5px;
+    border: black;
+    width: 80px;
+    cursor: pointer;
+}
+
+.data-list {
+    padding-top: 30px;
+    /* margin-right: 200px; */
+    padding-bottom: 10px;
+}
+
+.headerSearchItem {
+    padding-right: 90px;
+    padding-top: 20px;
+}
+
+.button-div {
+    display: flex;
+    flex-direction: row;
+}

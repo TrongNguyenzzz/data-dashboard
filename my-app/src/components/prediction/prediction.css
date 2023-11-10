@@ -1,0 +1,46 @@
+.model-prediction {
+    background-color: #282c34;
+    height: 250vh;
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.model-image {
+    height: 30%;
+}
+
+.model-type {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.response-description {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+.coefficient-description {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+.input-prediction {
+    padding-top: 10px;
+}
+
+.firstKey {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+.predict-result {
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.inner-coef {
+    display: inline-block;
+}

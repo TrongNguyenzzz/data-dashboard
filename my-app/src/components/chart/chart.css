@@ -1,0 +1,48 @@
+.outer-chart {
+    background-color: #282c34;
+    height: max-content;
+}
+
+.outer-clear {
+    background-color: #282c34;
+    height: 100vh;
+}
+
+.clear-message {
+    color: white;
+    margin-left: 30px;
+}
+
+.main-chart {
+    height: 50%;
+    width: 50%;
+}
+
+.main-chart>h1 {
+    margin-top: 50px;
+    color: white;
+}
+
+.barchart {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.bar-chart {
+    margin-left: 200px;
+}
+
+.end {
+    height: 30px;
+}
+
+#clear-button {
+    margin-left: 85vw;
+    height: 40px;
+    width: 60px;
+}
+
+.plotType {
+    padding-right: 65px;
+    padding-top: 20px;
+}
