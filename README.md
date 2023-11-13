@@ -40,4 +40,7 @@ Some basic information about the model will be provided such as the coefficient 
 * Second, the user has to run 3 parts of the program separately. The first part is the website interface, which is where the user submits the data files and requests for the type of plots they want to display data or if they want to use the prediction features.
 * Finally, go to the displaying pages to see the charts if they choose to visualize data. If the user wants to see the prediction, go to the prediction page and enter their own inputs to get the predicted input with the corresponding accuracy.
 
+# Disclaimer: The prediction is just model-based and it is not 100% correct. Please don't use this for any betting purposes.
+
+# I hope you enjoy the page
 
