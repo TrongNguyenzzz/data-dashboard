@@ -4,6 +4,7 @@
 
 The project simulates the data dashboard with two main functions: Displaying in different plots and Predicting the outcome for the users with specific inputs.
 
+## Demo link: https://www.youtube.com/watch?v=EneDhDD0fGw&ab_channel=TrongNguyen
 
 ## Explanation of the website
 
